@@ -1,9 +1,7 @@
 {
-  "recommendations": [
-    "esbenp.prettier-vscode",
-    "dbaeumer.vscode-eslint",
-    "2gua.rainbow-brackets",
-    "usernamehw.errorlens",
-    "yzhang.markdown-all-in-one"
-  ]
+    "recommendations": [
+        "myml.vscode-markdown-plantuml-preview",
+        "esbenp.prettier-vscode",
+        "jebbs.plantuml"
+    ]
 }
